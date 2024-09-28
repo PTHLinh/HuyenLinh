@@ -1,8 +1,8 @@
 {
     "token": "",
-    "language": "en",
+    "language": "vi",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://shiva:shiva@cluster0.do0cdb4.mongodb.net",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
